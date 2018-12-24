@@ -1,14 +1,8 @@
 {
-	"posts": [{
-			"id": 0,
-			"quote": "This is quote one",
-			"author": "Rakesh",
-			"isCache": "true"
+	"wapapers": [{
+			"ink": "https://user-images.githubusercontent.com/26996502/50392578-9db58d80-0775-11e9-8116-1c41f5ec5e72.jpg"
 		},{
-			"id": 1,
-			"quote": "This is quote two",
-			"author": "Bhanu",
-			"isCache": "false"
+			"ink": "https://user-images.githubusercontent.com/26996502/50392578-9db58d80-0775-11e9-8116-1c41f5ec5e72.jpg"
 		}
 	]
 }
